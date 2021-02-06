@@ -11,7 +11,7 @@ Read vignette for simple example in R</a>
 
 <a href="https://github.com/herdiantrisufriyana/alignontology/blob/main/vignettes/quick-start.R">Download R script</a>
 
-<a href="https://github.com/herdiantrisufriyana/alignontology/blob/main/man/clixo_0.1.0.pdf">Reference manual</a>
+<a href="https://github.com/herdiantrisufriyana/alignontology/blob/main/man/alignontology_0.1.0.pdf">Reference manual</a>
 
 ## References
 
