@@ -25,7 +25,7 @@ Description: This package facilitates application of ontology alignment in
     Network-Extracted Ontology (NeXO) algorithm in R. This algorithm was
     originally implemented in C++ by Michael Kramer for NeXO algorithm found by
     Janusz Dutkowski. The inputs are computed and reference ontologies as
-    source-target-relation data frames.
+    source-target-relation data frames. 
 License: GPL-3
 LazyData: true
 Roxygen: list(markdown = TRUE)
